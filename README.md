@@ -88,11 +88,6 @@ Host your own instance of Consumet API on Vercel using the button below.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fconsumet%2Fapi.consumet.org)
 
-### Render
-Host your own instance of Consumet API on Render using the button below.
-
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/consumet/api.consumet.org)
-
 ### Railway
 Host your own instance of Consumet API on Railway using the button below.
 
